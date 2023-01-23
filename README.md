@@ -1,8 +1,19 @@
-# Danilov Egor ![Alt text](selfie.jpeg)
+# Danilov Egor 
 Senior QA Engineer with more than 4 years of commertial experience. I have 4 years of experience in a large fintech project.
 He was engaged in testing microservice systems.
 Participated in hiring, interviews and training of new employees.
 For the last year I have been creating a platform for automating testing of mobile applications.
+
+<p align='center'>
+    <a href="https://www.linkedin.com/in/egor-danilov/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://t.me/eadanilov">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+    </a>
+<p align='center'>
+    📫 How to reach me: <a href='mailto:qfreegit@yandex.ru'>qfreegit@yandex.ru</a>
+</p>
 
 ## 🎉 Activities
 
@@ -41,19 +52,5 @@ RUSSIAN STATE AGRARIAN UNIVERSITY - MOSCOW TIMIRYAZEV AGRICULTURAL ACADEMY (2010
 Department of Computer Science and Computer Engineering. Profile: "Applied Informatics in Economics"
 
 <p align='center'>
-    <a href="https://www.linkedin.com/in/egor-danilov/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="https://t.me/eadanilov">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-    </a>
-<p align='center'>
-    📫 How to reach me: <a href='mailto:qfreegit@yandex.ru'>qfreegit@yandex.ru</a>
-</p>
-
-<p align='center'>
     📝 <a href='https://disk.yandex.ru/i/yGMXlV9eDURT8g'>Link to pdf CV:</a>
 </p>
-
-
-theme: minima
