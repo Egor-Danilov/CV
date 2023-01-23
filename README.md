@@ -54,3 +54,6 @@ Department of Computer Science and Computer Engineering. Profile: "Applied Infor
 <p align='center'>
     📝 <a href='https://disk.yandex.ru/i/yGMXlV9eDURT8g'>Link to pdf CV:</a>
 </p>
+
+
+theme: minima
