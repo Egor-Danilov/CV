@@ -15,7 +15,6 @@ For the last year I have been creating a platform for automating testing of mobi
     📫 How to reach me: <a href='mailto:qfreegit@yandex.ru'>qfreegit@yandex.ru</a>
 </p>
 
-
 ## 🎉 Activities
 
 *   Wrote articles about how we test in my company: [Записки тестировщика, или как выжить в финтехе](https://habr.com/ru/company/yoomoney/blog/693004/), [Автоматизация, или как перестать бояться рутины
