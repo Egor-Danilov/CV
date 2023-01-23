@@ -16,7 +16,7 @@ For the last year I have been creating a platform for automating testing of mobi
 </p>
 
 
-### 🎉 Activities
+## 🎉 Activities
 *   Wrote articles about how we test in my company: [Записки тестировщика, или как выжить в финтехе](https://habr.com/ru/company/yoomoney/blog/693004/), [Автоматизация, или как перестать бояться рутины
     ](https://habr.com/ru/company/yoomoney/blog/693006/)
 * Spoke at a testing conference: [yoomoneyday_2022](https://events.yoomoney.ru/yoomoneyday_2022)
@@ -30,7 +30,7 @@ For the last year I have been creating a platform for automating testing of mobi
 *   Jenkins 
 *   GitHub/Bitbucket
 ---
-### 💻 Work experience
+## 💻 Work experience
 * Senior QA Engineer - YooMoney (2018 - Present)
 
 Testing web applications. Detection, documentation and tracking of defects. Interaction with developers, analysts, project manager. Research and modeling of user errors.
@@ -44,7 +44,7 @@ Testing web applications. Detection, documentation and tracking of defects. Inte
 Implementation and maintenance of electronic document management systems “External” (solution for electronic submission of reports to regulatory authorities using EDS)
 
 ---
-### 🏢 Education
+## 🏢 Education
 RUSSIAN STATE AGRARIAN UNIVERSITY - MOSCOW TIMIRYAZEV AGRICULTURAL ACADEMY (2010 - 2016)
 
 Department of Computer Science and Computer Engineering. Profile: "Applied Informatics in Economics"
