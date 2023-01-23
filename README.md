@@ -21,7 +21,9 @@ For the last year I have been creating a platform for automating testing of mobi
     ](https://habr.com/ru/company/yoomoney/blog/693006/)
 * Spoke at a testing conference: [yoomoneyday_2022](https://events.yoomoney.ru/yoomoneyday_2022)
 *   Currently working in [Yoomoney](https://yoomoney.ru/)
+
 ---
+
 ## 🛠 Technical Stack
 *   Kotlin, Groovy, Swift
 *   PostgreSQL, MongoDB
@@ -29,7 +31,9 @@ For the last year I have been creating a platform for automating testing of mobi
 *   Apache HttpClient,Spring Boot, Kotlin Xml Builder, Jackson, Allure Report
 *   Jenkins 
 *   GitHub/Bitbucket
+
 ---
+
 ## 💻 Work experience
 * Senior QA Engineer - YooMoney (2018 - Present)
 
@@ -44,6 +48,7 @@ Testing web applications. Detection, documentation and tracking of defects. Inte
 Implementation and maintenance of electronic document management systems “External” (solution for electronic submission of reports to regulatory authorities using EDS)
 
 ---
+
 ## 🏢 Education
 RUSSIAN STATE AGRARIAN UNIVERSITY - MOSCOW TIMIRYAZEV AGRICULTURAL ACADEMY (2010 - 2016)
 
