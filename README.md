@@ -1,4 +1,4 @@
-# Danilov Egor
+# Danilov Egor ![Alt text](selfie.jpeg)
 Senior QA Engineer with more than 4 years of commertial experience. I have 4 years of experience in a large fintech project.
 He was engaged in testing microservice systems.
 Participated in hiring, interviews and training of new employees.
