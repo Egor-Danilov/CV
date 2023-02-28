@@ -1,8 +1,5 @@
 # Danilov Egor 
-Senior QA Engineer with more than 4 years of commertial experience. I have 4 years of experience in a large fintech project.
-He was engaged in testing microservice systems.
-Participated in hiring, interviews and training of new employees.
-For the last year I have been creating a platform for automating testing of mobile applications.
+Experienced Senior QA Engineer with over 4 years of experience at YooMoney, specializing in testing web applications using microservices architecture. Skilled in building testing processes and mentoring team members to improve their skills and productivity. Expertise in detecting, documenting, and tracking defects and collaborating with developers, analysts, and project managers to resolve them. Proficient in researching and modeling user errors to improve product quality. Results-oriented and highly professional in the field of testing, with a proven track record of delivering high-quality products.
 
 ## 🎉 Activities
 
